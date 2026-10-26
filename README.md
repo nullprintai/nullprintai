@@ -10,6 +10,8 @@ Multi-profile browser for e-commerce and social media teams.
 
 **New guide:** drive Nullprint from DeepSeek's dsh agent over MCP. [Docs](https://nullprint.ai/docs/mcp/dsh/)
 
+**Video tutorial (4 min):** set up two profiles, one on a US IP and one on a Japan IP, fully separate. [Watch on YouTube](https://youtu.be/0IvP3Pv9ZA0) · [All tutorials](https://nullprint.ai/tutorials/)
+
 ![Nullprint new profile window: the fingerprint is generated and locked at creation](images/new-profile.png)
 
 **Repos:** [nullprint-mcp](https://github.com/nullprintai/nullprint-mcp) (Python on PyPI, Node on npm)
