@@ -1,6 +1,6 @@
 ### Nullprint
 
-**Nullprint AI Antidetect Browser** for e-commerce and social media teams. Built-in MCP lets AI agents operate real browser profiles directly.
+**Nullprint AI Antidetect Browser** for e-commerce and social media teams. AI agents can operate real browser profiles through MCP.
 
 - Frozen per-profile fingerprints on a custom Chromium kernel
 - Time zone, language and geolocation follow each profile's proxy
