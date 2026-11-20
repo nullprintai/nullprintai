@@ -4,9 +4,9 @@
 
 - Frozen per-profile fingerprints on a custom Chromium kernel
 - Time zone, language and geolocation follow each profile's proxy
-- Local API + MCP server (18 tools) so AI agents can create, check and drive profiles
+- Local API + MCP server (20 tools) so AI agents can create, check and drive profiles
 
-**What's new (0.2.17):** closing a window no longer loses sign-ins; steadier cloud sync. [Changelog](https://nullprint.ai/changelog/)
+**What's new (0.2.40):** updated Chrome 157 kernel; batch launch opens everything you select, and windows still open when the network hiccups. 0.2.36 added Android and iOS phone identities. [Changelog](https://nullprint.ai/changelog/)
 
 **New guide:** drive Nullprint from DeepSeek's dsh agent over MCP. [Docs](https://nullprint.ai/docs/mcp/dsh/)
 
